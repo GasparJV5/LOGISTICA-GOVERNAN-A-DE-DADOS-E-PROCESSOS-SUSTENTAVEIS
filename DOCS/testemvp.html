@@ -6,18 +6,30 @@
   <title>MDR Ecosystem — Consolidado Refatorado</title>
   <style>
     :root{
-      --bg:#0f172a; --bg2:#111827; --panel:#1e293b; --panel2:#0b1220; --teAxt:#e5e7eb;
-      --muted:#94a3b8; --border:#334155; --accent:#2563eb; --accent2:#38bdf8;
-      --success:#10b981; --warning:#f59e0b; --danger:#ef4444; --violet:#8b5cf6;
-      --radius:14px; --shadow:0 10px 24px rgba(0,0,0,.18);
-    }
+  --bg:#0f172a;
+  --bg2:#111827;
+  --panel:#1e293b;
+  --panel2:#0b1220;
+  --text:#e5e7eb;
+  --muted:#94a3b8;
+  --border:#334155;
+  --accent:#2563eb;
+  --accent2:#38bdf8;
+  --success:#10b981;
+  --warning:#f59e0b;
+  --danger:#ef4444;
+  --violet:#8b5cf6;
+  --radius:14px;
+  --shadow:0 10px 24px rgba(0,0,0,.18);
+}
+
     *{box-sizing:border-box} html,body{margin:0;padding:0}
-    body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,var(--bg),var(--bg2));color:var(--text);min-height:100vh}
+    body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,var(--bg),var(--bg2));color:var(--text,#e5e7eb);min-height:100vh}
     .container{max-width:1850px;margin:0 auto;padding:18px}
     .topbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;background:rgba(15,23,42,.88);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow);margin-bottom:16px}
     .topbar h1{margin:0;font-size:1.45rem}.topbar small{display:block;margin-top:4px;color:var(--muted)}
     .toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px}
-    .tab-btn,.btn{border:1px solid var(--border);background:var(--panel2);color:var(--text);padding:10px 14px;border-radius:10px;cursor:pointer;font-weight:700}
+    .tab-btn,.btn{border:1px solid var(--border);background:var(--panel2);color:var(--text,#e5e7eb);padding:10px 14px;border-radius:10px;cursor:pointer;font-weight:700}
     .tab-btn{color:var(--muted);padding:12px 18px;font-weight:800}.tab-btn.active{background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;border-color:transparent}
     .btn:hover{filter:brightness(1.06)} .btn-primary{background:linear-gradient(135deg,var(--accent),var(--accent2));border-color:transparent;color:#fff}
     .btn-success{background:linear-gradient(135deg,#059669,#10b981);border-color:transparent;color:#fff}
@@ -33,19 +45,19 @@
     .kpi.success{border-color:rgba(16,185,129,.35)}.kpi.warning{border-color:rgba(245,158,11,.35)}.kpi.danger{border-color:rgba(239,68,68,.35)}.kpi.info{border-color:rgba(56,189,248,.35)}.kpi.violet{border-color:rgba(139,92,246,.35)}
     .split{display:grid;grid-template-columns:1.15fr .85fr;gap:18px}.form-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px}.form-grid-2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
     .field{display:flex;flex-direction:column;gap:6px}.field label{font-size:11px;text-transform:uppercase;color:var(--muted);font-weight:800;letter-spacing:.4px}
-    input,select,textarea{width:100%;padding:11px 12px;border-radius:10px;border:1px solid var(--border);background:var(--panel2);color:var(--text);outline:none;font:inherit}
+    input,select,textarea{width:100%;padding:11px 12px;border-radius:10px;border:1px solid var(--border);background:var(--panel2);color:var(--text,#e5e7eb);outline:none;font:inherit}
     input:focus,select:focus,textarea:focus{border-color:var(--accent2);box-shadow:0 0 0 3px rgba(56,189,248,.12)} textarea{min-height:110px;resize:vertical}
     .checkbox-wrap{display:flex;align-items:center;gap:8px;min-height:44px;padding:11px 12px;border-radius:10px;border:1px solid var(--border);background:var(--panel2)} .checkbox-wrap input{width:auto}
     .table-wrap{overflow:auto;border:1px solid var(--border);border-radius:12px} table{width:100%;border-collapse:collapse;min-width:1650px}
     th,td{padding:12px 10px;border-bottom:1px solid var(--border);vertical-align:top} th{background:var(--panel2);color:var(--muted);text-transform:uppercase;font-size:11px;letter-spacing:.6px;position:sticky;top:0;z-index:1}
     tr:hover td{background:rgba(255,255,255,.02)} .row-urgent td{background:rgba(239,68,68,.06)} .row-late td{box-shadow:inset 4px 0 0 rgba(245,158,11,.9)}
-    .input-inline,.select-inline{width:100%;padding:7px 8px;border-radius:8px;border:1px solid #475569;background:rgba(15,23,42,.96);color:var(--text);font-size:12px;outline:none}
+    .input-inline,.select-inline{width:100%;padding:7px 8px;border-radius:8px;border:1px solid #475569;background:rgba(15,23,42,.96);color:var(--text,#e5e7eb);font-size:12px;outline:none}
     .badge{display:inline-flex;align-items:center;gap:6px;padding:5px 9px;border-radius:999px;font-size:11px;font-weight:800;white-space:nowrap}
     .b-info{background:rgba(56,189,248,.12);color:#7dd3fc}.b-warning{background:rgba(245,158,11,.12);color:#fbbf24}.b-success{background:rgba(16,185,129,.12);color:#6ee7b7}.b-danger{background:rgba(239,68,68,.12);color:#fca5a5}.b-violet{background:rgba(139,92,246,.12);color:#c4b5fd}.b-muted{background:rgba(148,163,184,.16);color:#cbd5e1}
     .muted{color:var(--muted)}.hidden{display:none !important}
     .kanban{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.lane{border:1px solid var(--border);border-radius:12px;padding:12px;background:rgba(11,18,32,.9);min-height:150px}.lane h4{margin:0 0 10px;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
     .mini-card{padding:10px;border-radius:12px;background:rgba(30,41,59,.95);border:1px solid var(--border);margin-bottom:8px}.mini-card b{display:block;margin-bottom:4px}.mini-card small{color:var(--muted)}
-    .details-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}.detail-box{border:1px solid var(--border);border-radius:12px;padding:12px;background:rgba(11,18,32,.85)}.detail-box h5{margin:0 0 8px;font-size:11px;text-transform:uppercase;color:var(--muted);letter-spacing:.5px}.detail-box pre{white-space:pre-wrap;margin:0;font-size:12px;color:var(--text);font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .details-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}.detail-box{border:1px solid var(--border);border-radius:12px;padding:12px;background:rgba(11,18,32,.85)}.detail-box h5{margin:0 0 8px;font-size:11px;text-transform:uppercase;color:var(--muted);letter-spacing:.5px}.detail-box pre{white-space:pre-wrap;margin:0;font-size:12px;color:var(--text,#e5e7eb);font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
     .block-list{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}.block-chip{border:1px solid var(--border);background:rgba(11,18,32,.85);border-radius:10px;padding:10px 12px;cursor:pointer;min-width:190px}.block-chip.active{border-color:var(--accent2);box-shadow:0 0 0 1px rgba(56,189,248,.35)}.block-chip .title{font-weight:800}.block-chip .meta{font-size:11px;color:var(--muted);margin-top:4px}
     .history-cell{font-size:11px;line-height:1.45;max-width:280px;color:#cbd5e1}.status-col{display:flex;flex-direction:column;gap:6px}
     details.archive-card{border:1px solid var(--border);border-radius:12px;background:rgba(11,18,32,.85);margin-bottom:12px;overflow:hidden} details.archive-card summary{list-style:none;cursor:pointer;padding:14px 16px;display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap} details.archive-card summary::-webkit-details-marker{display:none}.archive-summary-title{font-weight:800}.archive-summary-meta{font-size:12px;color:var(--muted);margin-top:4px}.archive-body{padding:0 16px 16px;border-top:1px solid var(--border)}
@@ -265,7 +277,15 @@ const App = {
   fmtDate(v){ if(!v) return '-'; if(typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v)){ const d = this.parseLocalDate(v); return d ? d.toLocaleDateString('pt-BR') : v; } const d = new Date(v); return isNaN(d.getTime()) ? v : d.toLocaleDateString('pt-BR'); },
   fmtDateTime(v){ if(!v) return '-'; const d = new Date(v); return isNaN(d.getTime()) ? v : d.toLocaleString('pt-BR'); },
   fmtMoney(v){ return Number(v || 0).toLocaleString('pt-BR',{style:'currency',currency:'BRL'}); },
-  escapeHtml(value){ return String(value ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;'); },
+  escapeHtml(value){
+  return String(value ?? '')
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#039;');
+},
+
   normalizeText(v){ return String(v || '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toUpperCase(); },
   normalizeHeader(v){ return String(v || '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/\s+/g,'').replace(/[^a-zA-Z0-9]/g,'').toLowerCase(); },
   toCSVSafe(v){ return `"${String(v ?? '').replaceAll('"','""')}"`; },
@@ -375,3 +395,9 @@ if (typeof document !== 'undefined') {
   </script>
 </body>
 </html>
+
+<!-- (//) • evita pedido repetido
+• evita NF repetida
+• reaproveita bloco do mesmo dia
+• mapeia colunas reais do relatório
+• valida datas, valores e campos obrigatórios -->
