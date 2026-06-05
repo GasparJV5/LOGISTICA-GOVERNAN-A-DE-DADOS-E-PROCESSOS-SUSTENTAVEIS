@@ -7,402 +7,6 @@
       "date": "2026-06-01",
       "entries": [
         {
-          "id": 1780604551174,
-          "processCode": "MDR-2026-000033",
-          "dataEntrada": "2026-06-01",
-          "createdAt": "2026-06-04T20:22:30.295Z",
-          "updatedAt": "2026-06-04T20:22:30.295Z",
-          "finishedAt": null,
-          "responsavel": "JOÃO VICTOR",
-          "operacao": "VENDA",
-          "carga": "669",
-          "pedido": "4276",
-          "destinatario": "HOSPITAIS INTEGRADOS DA GAVEA S/A",
-          "uf": "RJ",
-          "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
-          "obs": "",
-          "history": [
-            {
-              "id": 1780604551153,
-              "type": "REGRA",
-              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:22:30.295Z"
-            },
-            {
-              "id": 1780604551255,
-              "type": "CRIACAO",
-              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:22:30.295Z"
-            }
-          ],
-          "stageTimeline": [
-            {
-              "id": 1780604550296,
-              "status": "AGUARDANDO REQUISIÇÃO",
-              "start": "2026-06-04T20:22:30.295Z",
-              "end": null,
-              "durationHours": 0
-            }
-          ],
-          "currentStatusStartedAt": "2026-06-04T20:22:30.295Z",
-          "origin": "MANUAL",
-          "conferenciaData": "",
-          "conferenciaAssinatura": "",
-          "expedicaoData": "",
-          "expedicaoAssinatura": "",
-          "delayReason": "",
-          "delayReasonRequestedAt": "",
-          "calledInfo": {
-            "ticketNumber": "",
-            "reason": "",
-            "progressCurrent": "",
-            "progressHistory": []
-          },
-          "calledUpdatedAt": "",
-          "calledLastReminderAt": "",
-          "cancelReason": ""
-        },
-        {
-          "id": 1780604532119,
-          "processCode": "MDR-2026-000032",
-          "dataEntrada": "2026-06-01",
-          "createdAt": "2026-06-04T20:22:11.790Z",
-          "updatedAt": "2026-06-04T20:22:11.790Z",
-          "finishedAt": null,
-          "responsavel": "JOÃO VICTOR",
-          "operacao": "VENDA",
-          "carga": "668",
-          "pedido": "4209",
-          "destinatario": "HOSPITAL ESPERANCA RECIFE",
-          "uf": "PE",
-          "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
-          "obs": "",
-          "history": [
-            {
-              "id": 1780604531887,
-              "type": "REGRA",
-              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:22:11.790Z"
-            },
-            {
-              "id": 1780604532590,
-              "type": "CRIACAO",
-              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:22:11.790Z"
-            }
-          ],
-          "stageTimeline": [
-            {
-              "id": 1780604531791,
-              "status": "AGUARDANDO REQUISIÇÃO",
-              "start": "2026-06-04T20:22:11.790Z",
-              "end": null,
-              "durationHours": 0
-            }
-          ],
-          "currentStatusStartedAt": "2026-06-04T20:22:11.790Z",
-          "origin": "MANUAL",
-          "conferenciaData": "",
-          "conferenciaAssinatura": "",
-          "expedicaoData": "",
-          "expedicaoAssinatura": "",
-          "delayReason": "",
-          "delayReasonRequestedAt": "",
-          "calledInfo": {
-            "ticketNumber": "",
-            "reason": "",
-            "progressCurrent": "",
-            "progressHistory": []
-          },
-          "calledUpdatedAt": "",
-          "calledLastReminderAt": "",
-          "cancelReason": ""
-        },
-        {
-          "id": 1780604497347,
-          "processCode": "MDR-2026-000031",
-          "dataEntrada": "2026-06-01",
-          "createdAt": "2026-06-04T20:21:37.294Z",
-          "updatedAt": "2026-06-04T20:21:37.294Z",
-          "finishedAt": null,
-          "responsavel": "JOÃO VICTOR",
-          "operacao": "VENDA",
-          "carga": "667",
-          "pedido": "4207",
-          "destinatario": "HOSPITAL ESPERANCA OLINDA",
-          "uf": "PE",
-          "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
-          "obs": "",
-          "history": [
-            {
-              "id": 1780604497414,
-              "type": "REGRA",
-              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:21:37.294Z"
-            },
-            {
-              "id": 1780604497816,
-              "type": "CRIACAO",
-              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:21:37.294Z"
-            }
-          ],
-          "stageTimeline": [
-            {
-              "id": 1780604497295,
-              "status": "AGUARDANDO REQUISIÇÃO",
-              "start": "2026-06-04T20:21:37.294Z",
-              "end": null,
-              "durationHours": 0
-            }
-          ],
-          "currentStatusStartedAt": "2026-06-04T20:21:37.294Z",
-          "origin": "MANUAL",
-          "conferenciaData": "",
-          "conferenciaAssinatura": "",
-          "expedicaoData": "",
-          "expedicaoAssinatura": "",
-          "delayReason": "",
-          "delayReasonRequestedAt": "",
-          "calledInfo": {
-            "ticketNumber": "",
-            "reason": "",
-            "progressCurrent": "",
-            "progressHistory": []
-          },
-          "calledUpdatedAt": "",
-          "calledLastReminderAt": "",
-          "cancelReason": ""
-        },
-        {
-          "id": 1780604471104,
-          "processCode": "MDR-2026-000030",
-          "dataEntrada": "2026-06-01",
-          "createdAt": "2026-06-04T20:21:10.422Z",
-          "updatedAt": "2026-06-04T20:21:10.422Z",
-          "finishedAt": null,
-          "responsavel": "JOÃO VICTOR",
-          "operacao": "VENDA",
-          "carga": "666",
-          "pedido": "4253",
-          "destinatario": "HOSPITAL ESPERANCA SA",
-          "uf": "PE",
-          "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
-          "obs": "",
-          "history": [
-            {
-              "id": 1780604471205,
-              "type": "REGRA",
-              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:21:10.422Z"
-            },
-            {
-              "id": 1780604471038,
-              "type": "CRIACAO",
-              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:21:10.422Z"
-            }
-          ],
-          "stageTimeline": [
-            {
-              "id": 1780604470423,
-              "status": "AGUARDANDO REQUISIÇÃO",
-              "start": "2026-06-04T20:21:10.422Z",
-              "end": null,
-              "durationHours": 0
-            }
-          ],
-          "currentStatusStartedAt": "2026-06-04T20:21:10.422Z",
-          "origin": "MANUAL",
-          "conferenciaData": "",
-          "conferenciaAssinatura": "",
-          "expedicaoData": "",
-          "expedicaoAssinatura": "",
-          "delayReason": "",
-          "delayReasonRequestedAt": "",
-          "calledInfo": {
-            "ticketNumber": "",
-            "reason": "",
-            "progressCurrent": "",
-            "progressHistory": []
-          },
-          "calledUpdatedAt": "",
-          "calledLastReminderAt": "",
-          "cancelReason": ""
-        },
-        {
-          "id": 1780604443748,
-          "processCode": "MDR-2026-000029",
-          "dataEntrada": "2026-06-01",
-          "createdAt": "2026-06-04T20:20:43.414Z",
-          "updatedAt": "2026-06-04T20:20:43.414Z",
-          "finishedAt": null,
-          "responsavel": "JOÃO VICTOR",
-          "operacao": "VENDA",
-          "carga": "665",
-          "pedido": "4257",
-          "destinatario": "REDE DOR SAO LUIZ S.A.",
-          "uf": "PE",
-          "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
-          "obs": "",
-          "history": [
-            {
-              "id": 1780604443696,
-              "type": "REGRA",
-              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:20:43.414Z"
-            },
-            {
-              "id": 1780604443534,
-              "type": "CRIACAO",
-              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:20:43.414Z"
-            }
-          ],
-          "stageTimeline": [
-            {
-              "id": 1780604443415,
-              "status": "AGUARDANDO REQUISIÇÃO",
-              "start": "2026-06-04T20:20:43.414Z",
-              "end": null,
-              "durationHours": 0
-            }
-          ],
-          "currentStatusStartedAt": "2026-06-04T20:20:43.414Z",
-          "origin": "MANUAL",
-          "conferenciaData": "",
-          "conferenciaAssinatura": "",
-          "expedicaoData": "",
-          "expedicaoAssinatura": "",
-          "delayReason": "",
-          "delayReasonRequestedAt": "",
-          "calledInfo": {
-            "ticketNumber": "",
-            "reason": "",
-            "progressCurrent": "",
-            "progressHistory": []
-          },
-          "calledUpdatedAt": "",
-          "calledLastReminderAt": "",
-          "cancelReason": ""
-        },
-        {
-          "id": 1780604424702,
-          "processCode": "MDR-2026-000028",
-          "dataEntrada": "2026-06-01",
-          "createdAt": "2026-06-04T20:20:24.663Z",
-          "updatedAt": "2026-06-04T20:20:24.663Z",
-          "finishedAt": null,
-          "responsavel": "JOÃO VICTOR",
-          "operacao": "VENDA",
-          "carga": "664",
-          "pedido": "4255",
-          "destinatario": "REDE DOR SAO LUIZ S.A.",
-          "uf": "PE",
-          "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
-          "obs": "",
-          "history": [
-            {
-              "id": 1780604425297,
-              "type": "REGRA",
-              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:20:24.663Z"
-            },
-            {
-              "id": 1780604425201,
-              "type": "CRIACAO",
-              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
-              "meta": {},
-              "date": "2026-06-04T20:20:24.663Z"
-            }
-          ],
-          "stageTimeline": [
-            {
-              "id": 1780604424664,
-              "status": "AGUARDANDO REQUISIÇÃO",
-              "start": "2026-06-04T20:20:24.663Z",
-              "end": null,
-              "durationHours": 0
-            }
-          ],
-          "currentStatusStartedAt": "2026-06-04T20:20:24.663Z",
-          "origin": "MANUAL",
-          "conferenciaData": "",
-          "conferenciaAssinatura": "",
-          "expedicaoData": "",
-          "expedicaoAssinatura": "",
-          "delayReason": "",
-          "delayReasonRequestedAt": "",
-          "calledInfo": {
-            "ticketNumber": "",
-            "reason": "",
-            "progressCurrent": "",
-            "progressHistory": []
-          },
-          "calledUpdatedAt": "",
-          "calledLastReminderAt": "",
-          "cancelReason": ""
-        },
-        {
           "calledInfo": {
             "ticketNumber": "86736",
             "reason": "ROMA ATENDIDO, CONSTA CORTE PROTHEUS",
@@ -1768,6 +1372,48 @@
         }
       ],
       "history": [
+        {
+          "id": 1780604810592,
+          "type": "BLOCO",
+          "text": "Processo 4255 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:26:49.934Z"
+        },
+        {
+          "id": 1780604807911,
+          "type": "BLOCO",
+          "text": "Processo 4257 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:26:47.878Z"
+        },
+        {
+          "id": 1780604806911,
+          "type": "BLOCO",
+          "text": "Processo 4253 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:26:46.351Z"
+        },
+        {
+          "id": 1780604804931,
+          "type": "BLOCO",
+          "text": "Processo 4207 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:26:44.678Z"
+        },
+        {
+          "id": 1780604803737,
+          "type": "BLOCO",
+          "text": "Processo 4209 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:26:43.070Z"
+        },
+        {
+          "id": 1780604801812,
+          "type": "BLOCO",
+          "text": "Processo 4276 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:26:41.319Z"
+        },
         {
           "id": 1780604641254,
           "type": "BLOCO",
@@ -5251,11 +4897,1482 @@
       "archived": false,
       "entries": [
         {
+          "id": 1780660304674,
+          "processCode": "MDR-2026-000047",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-05T11:51:43.856Z",
+          "updatedAt": "2026-06-05T16:38:00.382Z",
+          "finishedAt": "2026-06-05T16:38:00.382Z",
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "675",
+          "pedido": "4316",
+          "destinatario": "HOSPITAL COPA DOR",
+          "uf": "RJ",
+          "urgente": false,
+          "requisicao": "97633",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "CANCELADO",
+          "previousStatus": "EM SEPARAÇÃO",
+          "sharePointLane": "FINALIZADAS",
+          "modal": "---",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780677480899,
+              "type": "STATUS",
+              "text": "Status alterado de EM SEPARAÇÃO para CANCELADO.",
+              "meta": {},
+              "date": "2026-06-05T16:38:00.382Z"
+            },
+            {
+              "id": 1780677480598,
+              "type": "CANCELAMENTO",
+              "text": "Pedido cancelado. Motivo: CORTE TOTAL, SEM ATENDIMENTO",
+              "meta": {},
+              "date": "2026-06-05T16:38:00.381Z"
+            },
+            {
+              "id": 1780660489959,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-05T11:54:49.910Z"
+            },
+            {
+              "id": 1780660490358,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97633",
+              "meta": {},
+              "date": "2026-06-05T11:54:49.910Z"
+            },
+            {
+              "id": 1780660304091,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T11:51:43.856Z"
+            },
+            {
+              "id": 1780660304506,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T11:51:43.856Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780660303857,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-05T11:51:43.856Z",
+              "end": "2026-06-05T11:54:49.910Z",
+              "durationHours": 0.05168166666666667
+            },
+            {
+              "id": 1780660490754,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-05T11:54:49.910Z",
+              "end": "2026-06-05T16:38:00.382Z",
+              "durationHours": 4.719575555555555
+            },
+            {
+              "id": 1780677480718,
+              "status": "CANCELADO",
+              "start": "2026-06-05T16:38:00.382Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T16:38:00.382Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": "CORTE TOTAL, SEM ATENDIMENTO"
+        },
+        {
+          "id": 1780660277851,
+          "processCode": "MDR-2026-000046",
+          "dataEntrada": "2026-06-05",
+          "createdAt": "2026-06-05T11:51:17.464Z",
+          "updatedAt": "2026-06-05T16:36:17.516Z",
+          "finishedAt": "2026-06-05T16:36:17.516Z",
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "674",
+          "pedido": "4318",
+          "destinatario": "HOSPITAL CAXIAS DOR",
+          "uf": "RJ",
+          "urgente": false,
+          "requisicao": "97632",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "CANCELADO",
+          "previousStatus": "EM SEPARAÇÃO",
+          "sharePointLane": "FINALIZADAS",
+          "modal": "---",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780677377978,
+              "type": "STATUS",
+              "text": "Status alterado de EM SEPARAÇÃO para CANCELADO.",
+              "meta": {},
+              "date": "2026-06-05T16:36:17.516Z"
+            },
+            {
+              "id": 1780677377642,
+              "type": "CANCELAMENTO",
+              "text": "Pedido cancelado. Motivo: CORTE TOTAL, SEM ATENDIMENTO",
+              "meta": {},
+              "date": "2026-06-05T16:36:17.485Z"
+            },
+            {
+              "id": 1780660485638,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-05T11:54:44.912Z"
+            },
+            {
+              "id": 1780660484968,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97632",
+              "meta": {},
+              "date": "2026-06-05T11:54:44.912Z"
+            },
+            {
+              "id": 1780660277593,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T11:51:17.464Z"
+            },
+            {
+              "id": 1780660278407,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T11:51:17.464Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780660277465,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-05T11:51:17.464Z",
+              "end": "2026-06-05T11:54:44.912Z",
+              "durationHours": 0.05762444444444444
+            },
+            {
+              "id": 1780660485879,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-05T11:54:44.912Z",
+              "end": "2026-06-05T16:36:17.500Z",
+              "durationHours": 4.692385555555555
+            },
+            {
+              "id": 1780677378041,
+              "status": "CANCELADO",
+              "start": "2026-06-05T16:36:17.516Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T16:36:17.516Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": "CORTE TOTAL, SEM ATENDIMENTO"
+        },
+        {
+          "id": 1780605188439,
+          "processCode": "MDR-2026-000045",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:33:08.134Z",
+          "updatedAt": "2026-06-04T20:35:41.647Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "662",
+          "pedido": "4291",
+          "destinatario": "MDR DISTRIBUICAO E IMPORTACAO DE PRODUTO",
+          "uf": "PB",
+          "urgente": true,
+          "requisicao": "97523",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "EM SEPARAÇÃO",
+          "previousStatus": "AGUARDANDO REQUISIÇÃO",
+          "sharePointLane": "",
+          "modal": "---",
+          "obs": "PARAIBA PEDIDO CLECIA E ANA",
+          "history": [
+            {
+              "id": 1780605342497,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:35:41.647Z"
+            },
+            {
+              "id": 1780605342171,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97523",
+              "meta": {},
+              "date": "2026-06-04T20:35:41.647Z"
+            },
+            {
+              "id": 1780605188737,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:33:08.134Z"
+            },
+            {
+              "id": 1780605188965,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:33:08.134Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780605188135,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:33:08.134Z",
+              "end": "2026-06-04T20:35:41.647Z",
+              "durationHours": 0.0426425
+            },
+            {
+              "id": 1780605342244,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:35:41.647Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-04T20:35:41.647Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780605127932,
+          "processCode": "MDR-2026-000044",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:32:07.718Z",
+          "updatedAt": "2026-06-05T16:34:29.100Z",
+          "finishedAt": "2026-06-05T16:34:29.100Z",
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "673",
+          "pedido": "4249",
+          "destinatario": "UDI HOSPITAL",
+          "uf": "MA",
+          "urgente": false,
+          "requisicao": "97536",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "CANCELADO",
+          "previousStatus": "EM SEPARAÇÃO",
+          "sharePointLane": "FINALIZADAS",
+          "modal": "---",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780677269159,
+              "type": "STATUS",
+              "text": "Status alterado de EM SEPARAÇÃO para CANCELADO.",
+              "meta": {},
+              "date": "2026-06-05T16:34:29.100Z"
+            },
+            {
+              "id": 1780677269428,
+              "type": "CANCELAMENTO",
+              "text": "Pedido cancelado. Motivo: CORTE TOTAL, SEM ATENDIMENTO",
+              "meta": {},
+              "date": "2026-06-05T16:34:29.100Z"
+            },
+            {
+              "id": 1780605460747,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:39.846Z"
+            },
+            {
+              "id": 1780605459858,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97536",
+              "meta": {},
+              "date": "2026-06-04T20:37:39.846Z"
+            },
+            {
+              "id": 1780605128402,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:32:07.718Z"
+            },
+            {
+              "id": 1780605128408,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:32:07.718Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780605127719,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:32:07.718Z",
+              "end": "2026-06-04T20:37:39.846Z",
+              "durationHours": 0.09225777777777777
+            },
+            {
+              "id": 1780605459910,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:39.846Z",
+              "end": "2026-06-05T16:34:29.100Z",
+              "durationHours": 19.947015
+            },
+            {
+              "id": 1780677269583,
+              "status": "CANCELADO",
+              "start": "2026-06-05T16:34:29.100Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T16:34:29.100Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": "CORTE TOTAL, SEM ATENDIMENTO"
+        },
+        {
+          "id": 1780605106987,
+          "processCode": "MDR-2026-000043",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:31:46.377Z",
+          "updatedAt": "2026-06-05T17:29:53.601Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "672",
+          "pedido": "4219",
+          "destinatario": "UDI HOSPITAL",
+          "uf": "MA",
+          "urgente": false,
+          "requisicao": "97535",
+          "nf": "74905",
+          "valorNf": 1140,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "AÉREO",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680593804,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:29:53.601Z"
+            },
+            {
+              "id": 1780680593624,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:29:53.601Z"
+            },
+            {
+              "id": 1780680591986,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:29:51.049Z"
+            },
+            {
+              "id": 1780680588045,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:29:47.770Z"
+            },
+            {
+              "id": 1780680587811,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74905",
+              "meta": {},
+              "date": "2026-06-05T17:29:47.770Z"
+            },
+            {
+              "id": 1780605456584,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:35.718Z"
+            },
+            {
+              "id": 1780605456709,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97535",
+              "meta": {},
+              "date": "2026-06-04T20:37:35.718Z"
+            },
+            {
+              "id": 1780605107351,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:31:46.377Z"
+            },
+            {
+              "id": 1780605106890,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:31:46.377Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780605106378,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:31:46.377Z",
+              "end": "2026-06-04T20:37:35.718Z",
+              "durationHours": 0.09703916666666666
+            },
+            {
+              "id": 1780605456195,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:35.718Z",
+              "end": "2026-06-05T17:29:47.770Z",
+              "durationHours": 20.870014444444443
+            },
+            {
+              "id": 1780680588028,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:29:47.770Z",
+              "end": "2026-06-05T17:29:53.601Z",
+              "durationHours": 0.0016197222222222223
+            },
+            {
+              "id": 1780680594458,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:29:53.601Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:29:53.601Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780605076373,
+          "processCode": "MDR-2026-000042",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:31:16.224Z",
+          "updatedAt": "2026-06-05T17:29:35.938Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "670",
+          "pedido": "4215",
+          "destinatario": "HOSPITAL CARDIO PULMONAR",
+          "uf": "BA",
+          "urgente": true,
+          "requisicao": "97534",
+          "nf": "74904",
+          "valorNf": 3918,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "AÉREO",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680576474,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:29:35.938Z"
+            },
+            {
+              "id": 1780680576751,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:29:35.938Z"
+            },
+            {
+              "id": 1780680575206,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:29:34.464Z"
+            },
+            {
+              "id": 1780680571320,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:29:30.856Z"
+            },
+            {
+              "id": 1780680570924,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74904",
+              "meta": {},
+              "date": "2026-06-05T17:29:30.856Z"
+            },
+            {
+              "id": 1780605452370,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:31.414Z"
+            },
+            {
+              "id": 1780605451989,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97534",
+              "meta": {},
+              "date": "2026-06-04T20:37:31.414Z"
+            },
+            {
+              "id": 1780605076346,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:31:16.224Z"
+            },
+            {
+              "id": 1780605077173,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:31:16.224Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780605076225,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:31:16.224Z",
+              "end": "2026-06-04T20:37:31.414Z",
+              "durationHours": 0.10421944444444445
+            },
+            {
+              "id": 1780605451632,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:31.414Z",
+              "end": "2026-06-05T17:29:30.856Z",
+              "durationHours": 20.866511666666668
+            },
+            {
+              "id": 1780680571314,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:29:30.856Z",
+              "end": "2026-06-05T17:29:35.938Z",
+              "durationHours": 0.0014116666666666668
+            },
+            {
+              "id": 1780680576091,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:29:35.938Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:29:35.938Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780605010429,
+          "processCode": "MDR-2026-000041",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:30:09.942Z",
+          "updatedAt": "2026-06-05T17:28:37.900Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "669",
+          "pedido": "4276",
+          "destinatario": "HOSPITAIS INTEGRADOS DA GAVEA S/A",
+          "uf": "RJ",
+          "urgente": false,
+          "requisicao": "97533",
+          "nf": "74903",
+          "valorNf": 1305,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "AÉREO",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680518784,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:28:37.900Z"
+            },
+            {
+              "id": 1780680518551,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:28:37.900Z"
+            },
+            {
+              "id": 1780680516612,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:28:36.209Z"
+            },
+            {
+              "id": 1780680512943,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:28:32.304Z"
+            },
+            {
+              "id": 1780680513215,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74903",
+              "meta": {},
+              "date": "2026-06-05T17:28:32.304Z"
+            },
+            {
+              "id": 1780605447845,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:27.833Z"
+            },
+            {
+              "id": 1780605448444,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97533",
+              "meta": {},
+              "date": "2026-06-04T20:37:27.833Z"
+            },
+            {
+              "id": 1780605010782,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:30:09.942Z"
+            },
+            {
+              "id": 1780605010121,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:30:09.942Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780605009943,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:30:09.942Z",
+              "end": "2026-06-04T20:37:27.833Z",
+              "durationHours": 0.12163638888888889
+            },
+            {
+              "id": 1780605448669,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:27.833Z",
+              "end": "2026-06-05T17:28:32.304Z",
+              "durationHours": 20.851241944444446
+            },
+            {
+              "id": 1780680512902,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:28:32.304Z",
+              "end": "2026-06-05T17:28:37.900Z",
+              "durationHours": 0.0015544444444444444
+            },
+            {
+              "id": 1780680518665,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:28:37.900Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:28:37.900Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780604987120,
+          "processCode": "MDR-2026-000040",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:29:46.630Z",
+          "updatedAt": "2026-06-05T17:28:20.053Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "668",
+          "pedido": "4209",
+          "destinatario": "HOSPITAL ESPERANCA RECIFE",
+          "uf": "PE",
+          "urgente": false,
+          "requisicao": "97532",
+          "nf": "74902",
+          "valorNf": 119.72,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "INTERESTADUAL",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680500250,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:28:20.053Z"
+            },
+            {
+              "id": 1780680500452,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:28:20.053Z"
+            },
+            {
+              "id": 1780680499179,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:28:18.378Z"
+            },
+            {
+              "id": 1780680479516,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:27:58.905Z"
+            },
+            {
+              "id": 1780680478953,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74902",
+              "meta": {},
+              "date": "2026-06-05T17:27:58.905Z"
+            },
+            {
+              "id": 1780605439411,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:18.998Z"
+            },
+            {
+              "id": 1780605439488,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97532",
+              "meta": {},
+              "date": "2026-06-04T20:37:18.998Z"
+            },
+            {
+              "id": 1780604987334,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:29:46.630Z"
+            },
+            {
+              "id": 1780604986674,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:29:46.630Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780604986631,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:29:46.630Z",
+              "end": "2026-06-04T20:37:18.998Z",
+              "durationHours": 0.12565777777777778
+            },
+            {
+              "id": 1780605439497,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:18.998Z",
+              "end": "2026-06-05T17:27:58.905Z",
+              "durationHours": 20.84441861111111
+            },
+            {
+              "id": 1780680479781,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:27:58.905Z",
+              "end": "2026-06-05T17:28:20.053Z",
+              "durationHours": 0.005874444444444444
+            },
+            {
+              "id": 1780680500183,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:28:20.053Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:28:20.053Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780604973268,
+          "processCode": "MDR-2026-000039",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:29:32.319Z",
+          "updatedAt": "2026-06-05T17:27:45.224Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "667",
+          "pedido": "4207",
+          "destinatario": "HOSPITAL ESPERANCA OLINDA",
+          "uf": "PE",
+          "urgente": false,
+          "requisicao": "97531",
+          "nf": "74901",
+          "valorNf": 764,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "INTERESTADUAL",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680465601,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:27:45.224Z"
+            },
+            {
+              "id": 1780680465540,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:27:45.224Z"
+            },
+            {
+              "id": 1780680460978,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:27:40.201Z"
+            },
+            {
+              "id": 1780680457357,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:27:36.657Z"
+            },
+            {
+              "id": 1780680456708,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74901",
+              "meta": {},
+              "date": "2026-06-05T17:27:36.657Z"
+            },
+            {
+              "id": 1780605434028,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:13.134Z"
+            },
+            {
+              "id": 1780605433316,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97531",
+              "meta": {},
+              "date": "2026-06-04T20:37:13.134Z"
+            },
+            {
+              "id": 1780604972633,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:29:32.319Z"
+            },
+            {
+              "id": 1780604973258,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:29:32.319Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780604972320,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:29:32.319Z",
+              "end": "2026-06-04T20:37:13.134Z",
+              "durationHours": 0.12800416666666667
+            },
+            {
+              "id": 1780605434060,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:13.134Z",
+              "end": "2026-06-05T17:27:36.657Z",
+              "durationHours": 20.8398675
+            },
+            {
+              "id": 1780680456891,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:27:36.657Z",
+              "end": "2026-06-05T17:27:45.224Z",
+              "durationHours": 0.0023797222222222223
+            },
+            {
+              "id": 1780680465870,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:27:45.224Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:27:45.224Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780604951176,
+          "processCode": "MDR-2026-000038",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:29:10.294Z",
+          "updatedAt": "2026-06-05T17:27:27.016Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "666",
+          "pedido": "4253",
+          "destinatario": "HOSPITAL ESPERANCA SA",
+          "uf": "PE",
+          "urgente": false,
+          "requisicao": "97530",
+          "nf": "74980",
+          "valorNf": 430,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "INTERESTADUAL",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680447175,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:27:27.016Z"
+            },
+            {
+              "id": 1780680447634,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:27:27.016Z"
+            },
+            {
+              "id": 1780680445460,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:27:25.297Z"
+            },
+            {
+              "id": 1780680441468,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:27:21.313Z"
+            },
+            {
+              "id": 1780680441715,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74980",
+              "meta": {},
+              "date": "2026-06-05T17:27:21.313Z"
+            },
+            {
+              "id": 1780605430233,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:09.430Z"
+            },
+            {
+              "id": 1780605429942,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97530",
+              "meta": {},
+              "date": "2026-06-04T20:37:09.430Z"
+            },
+            {
+              "id": 1780604950852,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:29:10.294Z"
+            },
+            {
+              "id": 1780604950526,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:29:10.294Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780604950295,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:29:10.294Z",
+              "end": "2026-06-04T20:37:09.430Z",
+              "durationHours": 0.13309333333333334
+            },
+            {
+              "id": 1780605430172,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:09.430Z",
+              "end": "2026-06-05T17:27:21.313Z",
+              "durationHours": 20.836634166666666
+            },
+            {
+              "id": 1780680441616,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:27:21.313Z",
+              "end": "2026-06-05T17:27:27.016Z",
+              "durationHours": 0.0015841666666666667
+            },
+            {
+              "id": 1780680447757,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:27:27.016Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:27:27.016Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780604931517,
+          "processCode": "MDR-2026-000037",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:28:51.271Z",
+          "updatedAt": "2026-06-05T16:26:28.045Z",
+          "finishedAt": "2026-06-05T16:26:28.045Z",
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "665",
+          "pedido": "4257",
+          "destinatario": "REDE DOR SAO LUIZ S.A.",
+          "uf": "PE",
+          "urgente": false,
+          "requisicao": "97529",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "CANCELADO",
+          "previousStatus": "EM SEPARAÇÃO",
+          "sharePointLane": "FINALIZADAS",
+          "modal": "---",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780676788302,
+              "type": "STATUS",
+              "text": "Status alterado de EM SEPARAÇÃO para CANCELADO.",
+              "meta": {},
+              "date": "2026-06-05T16:26:28.045Z"
+            },
+            {
+              "id": 1780676788815,
+              "type": "CANCELAMENTO",
+              "text": "Pedido cancelado. Motivo: CORTE TOTAL, SEM ATENDIMENTO",
+              "meta": {},
+              "date": "2026-06-05T16:26:28.045Z"
+            },
+            {
+              "id": 1780605426142,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:05.182Z"
+            },
+            {
+              "id": 1780605425253,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97529",
+              "meta": {},
+              "date": "2026-06-04T20:37:05.182Z"
+            },
+            {
+              "id": 1780604932262,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:28:51.271Z"
+            },
+            {
+              "id": 1780604932162,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:28:51.271Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780604931272,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:28:51.271Z",
+              "end": "2026-06-04T20:37:05.182Z",
+              "durationHours": 0.1371975
+            },
+            {
+              "id": 1780605425665,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:05.182Z",
+              "end": "2026-06-05T16:26:28.045Z",
+              "durationHours": 19.8230175
+            },
+            {
+              "id": 1780676788595,
+              "status": "CANCELADO",
+              "start": "2026-06-05T16:26:28.045Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T16:26:28.045Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": "CORTE TOTAL, SEM ATENDIMENTO"
+        },
+        {
+          "id": 1780604863445,
+          "processCode": "MDR-2026-000036",
+          "dataEntrada": "2026-06-04",
+          "createdAt": "2026-06-04T20:27:42.902Z",
+          "updatedAt": "2026-06-05T17:32:43.559Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "664",
+          "pedido": "4255",
+          "destinatario": "REDE DOR SAO LUIZ S.A.",
+          "uf": "PE",
+          "urgente": false,
+          "requisicao": "97528",
+          "nf": "74899",
+          "valorNf": 870.4,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "INTERESTADUAL",
+          "obs": "",
+          "history": [
+            {
+              "id": 1780680763758,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:32:43.560Z"
+            },
+            {
+              "id": 1780680764069,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:32:43.560Z"
+            },
+            {
+              "id": 1780680422235,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:27:01.314Z"
+            },
+            {
+              "id": 1780680417559,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:26:57.377Z"
+            },
+            {
+              "id": 1780680417770,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74899",
+              "meta": {},
+              "date": "2026-06-05T17:26:57.377Z"
+            },
+            {
+              "id": 1780605421348,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:37:01.334Z"
+            },
+            {
+              "id": 1780605422120,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97528",
+              "meta": {},
+              "date": "2026-06-04T20:37:01.334Z"
+            },
+            {
+              "id": 1780604863705,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:27:42.902Z"
+            },
+            {
+              "id": 1780604862971,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-04T20:27:42.902Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780604862903,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-04T20:27:42.902Z",
+              "end": "2026-06-04T20:37:01.334Z",
+              "durationHours": 0.15512
+            },
+            {
+              "id": 1780605421349,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:37:01.334Z",
+              "end": "2026-06-05T17:26:57.377Z",
+              "durationHours": 20.832234166666666
+            },
+            {
+              "id": 1780680417983,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:26:57.377Z",
+              "end": "2026-06-05T17:32:43.560Z",
+              "durationHours": 0.09616194444444444
+            },
+            {
+              "id": 1780680763718,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:32:43.560Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T17:32:43.560Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
           "id": 1780604671007,
           "processCode": "MDR-2026-000034",
           "dataEntrada": "2026-06-04",
           "createdAt": "2026-06-04T20:24:30.207Z",
-          "updatedAt": "2026-06-04T20:24:30.207Z",
+          "updatedAt": "2026-06-05T17:26:36.491Z",
           "finishedAt": null,
           "responsavel": "JOÃO VICTOR",
           "operacao": "VENDA",
@@ -5264,16 +6381,65 @@
           "destinatario": "REDE DOR SAO LUIZ S.A.",
           "uf": "PE",
           "urgente": false,
-          "requisicao": "",
-          "nf": "",
-          "valorNf": 0,
-          "dataEmissao": "",
-          "status": "AGUARDANDO REQUISIÇÃO",
-          "previousStatus": "NOVO",
-          "sharePointLane": "",
-          "modal": "---",
+          "requisicao": "97527",
+          "nf": "74898",
+          "valorNf": 3100.52,
+          "dataEmissao": "2026-06-05",
+          "status": "LIBERADO",
+          "previousStatus": "NF INFORMADA",
+          "sharePointLane": "LIBERADOS",
+          "modal": "INTERESTADUAL",
           "obs": "",
           "history": [
+            {
+              "id": 1780680396567,
+              "type": "REGRA",
+              "text": "Ao preencher a data de emissão, o status foi atualizado para LIBERADO.",
+              "meta": {},
+              "date": "2026-06-05T17:26:36.492Z"
+            },
+            {
+              "id": 1780680396756,
+              "type": "DOCUMENTO",
+              "text": "Data de emissão informada: 2026-06-05",
+              "meta": {},
+              "date": "2026-06-05T17:26:36.491Z"
+            },
+            {
+              "id": 1780680391131,
+              "type": "COLUNA",
+              "text": "Coluna SharePoint atualizada automaticamente para LIBERADOS ao informar valor da NF.",
+              "meta": {},
+              "date": "2026-06-05T17:26:30.425Z"
+            },
+            {
+              "id": 1780680385439,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para NF INFORMADA ao preencher NF.",
+              "meta": {},
+              "date": "2026-06-05T17:26:24.990Z"
+            },
+            {
+              "id": 1780680385106,
+              "type": "DOCUMENTO",
+              "text": "NF informada: 74898",
+              "meta": {},
+              "date": "2026-06-05T17:26:24.989Z"
+            },
+            {
+              "id": 1780605407602,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-04T20:36:47.286Z"
+            },
+            {
+              "id": 1780605407656,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97527",
+              "meta": {},
+              "date": "2026-06-04T20:36:47.286Z"
+            },
             {
               "id": 1780604670393,
               "type": "REGRA",
@@ -5294,11 +6460,32 @@
               "id": 1780604670208,
               "status": "AGUARDANDO REQUISIÇÃO",
               "start": "2026-06-04T20:24:30.207Z",
+              "end": "2026-06-04T20:36:47.286Z",
+              "durationHours": 0.20474416666666667
+            },
+            {
+              "id": 1780605408167,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-04T20:36:47.286Z",
+              "end": "2026-06-05T17:26:24.990Z",
+              "durationHours": 20.82714
+            },
+            {
+              "id": 1780680385562,
+              "status": "NF INFORMADA",
+              "start": "2026-06-05T17:26:24.990Z",
+              "end": "2026-06-05T17:26:36.491Z",
+              "durationHours": 0.003194722222222222
+            },
+            {
+              "id": 1780680397306,
+              "status": "LIBERADO",
+              "start": "2026-06-05T17:26:36.492Z",
               "end": null,
               "durationHours": 0
             }
           ],
-          "currentStatusStartedAt": "2026-06-04T20:24:30.207Z",
+          "currentStatusStartedAt": "2026-06-05T17:26:36.492Z",
           "origin": "MANUAL",
           "conferenciaData": "",
           "conferenciaAssinatura": "",
@@ -5319,6 +6506,391 @@
       ],
       "history": [
         {
+          "id": 1780680764219,
+          "type": "BLOCO",
+          "text": "Processo 4255 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:32:43.560Z"
+        },
+        {
+          "id": 1780680594204,
+          "type": "BLOCO",
+          "text": "Processo 4219 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:29:53.601Z"
+        },
+        {
+          "id": 1780680591494,
+          "type": "BLOCO",
+          "text": "Processo 4219 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:29:51.049Z"
+        },
+        {
+          "id": 1780680588214,
+          "type": "BLOCO",
+          "text": "Processo 4219 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:29:47.770Z"
+        },
+        {
+          "id": 1780680576798,
+          "type": "BLOCO",
+          "text": "Processo 4215 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:29:35.938Z"
+        },
+        {
+          "id": 1780680574895,
+          "type": "BLOCO",
+          "text": "Processo 4215 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:29:34.464Z"
+        },
+        {
+          "id": 1780680571029,
+          "type": "BLOCO",
+          "text": "Processo 4215 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:29:30.856Z"
+        },
+        {
+          "id": 1780680518470,
+          "type": "BLOCO",
+          "text": "Processo 4276 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:28:37.900Z"
+        },
+        {
+          "id": 1780680516563,
+          "type": "BLOCO",
+          "text": "Processo 4276 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:28:36.209Z"
+        },
+        {
+          "id": 1780680512708,
+          "type": "BLOCO",
+          "text": "Processo 4276 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:28:32.304Z"
+        },
+        {
+          "id": 1780680500643,
+          "type": "BLOCO",
+          "text": "Processo 4209 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:28:20.053Z"
+        },
+        {
+          "id": 1780680498386,
+          "type": "BLOCO",
+          "text": "Processo 4209 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:28:18.378Z"
+        },
+        {
+          "id": 1780680479427,
+          "type": "BLOCO",
+          "text": "Processo 4209 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:58.905Z"
+        },
+        {
+          "id": 1780680465662,
+          "type": "BLOCO",
+          "text": "Processo 4207 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:45.224Z"
+        },
+        {
+          "id": 1780680460651,
+          "type": "BLOCO",
+          "text": "Processo 4207 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:40.201Z"
+        },
+        {
+          "id": 1780680457204,
+          "type": "BLOCO",
+          "text": "Processo 4207 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:36.657Z"
+        },
+        {
+          "id": 1780680447022,
+          "type": "BLOCO",
+          "text": "Processo 4253 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:27.016Z"
+        },
+        {
+          "id": 1780680445582,
+          "type": "BLOCO",
+          "text": "Processo 4253 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:25.297Z"
+        },
+        {
+          "id": 1780680441451,
+          "type": "BLOCO",
+          "text": "Processo 4253 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:21.313Z"
+        },
+        {
+          "id": 1780680421506,
+          "type": "BLOCO",
+          "text": "Processo 4255 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:27:01.314Z"
+        },
+        {
+          "id": 1780680418112,
+          "type": "BLOCO",
+          "text": "Processo 4255 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:26:57.377Z"
+        },
+        {
+          "id": 1780680397315,
+          "type": "BLOCO",
+          "text": "Processo 4213 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:26:36.492Z"
+        },
+        {
+          "id": 1780680390752,
+          "type": "BLOCO",
+          "text": "Processo 4213 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:26:30.425Z"
+        },
+        {
+          "id": 1780680385902,
+          "type": "BLOCO",
+          "text": "Processo 4213 alterado.",
+          "meta": {},
+          "date": "2026-06-05T17:26:24.990Z"
+        },
+        {
+          "id": 1780677480949,
+          "type": "BLOCO",
+          "text": "Processo 4316 alterado.",
+          "meta": {},
+          "date": "2026-06-05T16:38:00.383Z"
+        },
+        {
+          "id": 1780677377921,
+          "type": "BLOCO",
+          "text": "Processo 4318 alterado.",
+          "meta": {},
+          "date": "2026-06-05T16:36:17.562Z"
+        },
+        {
+          "id": 1780677269950,
+          "type": "BLOCO",
+          "text": "Processo 4249 alterado.",
+          "meta": {},
+          "date": "2026-06-05T16:34:29.101Z"
+        },
+        {
+          "id": 1780676788233,
+          "type": "BLOCO",
+          "text": "Processo 4257 alterado.",
+          "meta": {},
+          "date": "2026-06-05T16:26:28.045Z"
+        },
+        {
+          "id": 1780660490103,
+          "type": "BLOCO",
+          "text": "Processo 4316 alterado.",
+          "meta": {},
+          "date": "2026-06-05T11:54:49.910Z"
+        },
+        {
+          "id": 1780660485340,
+          "type": "BLOCO",
+          "text": "Processo 4318 alterado.",
+          "meta": {},
+          "date": "2026-06-05T11:54:44.912Z"
+        },
+        {
+          "id": 1780660304341,
+          "type": "BLOCO",
+          "text": "Processo 4316 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-05T11:51:43.856Z"
+        },
+        {
+          "id": 1780660277622,
+          "type": "BLOCO",
+          "text": "Processo 4318 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-05T11:51:17.464Z"
+        },
+        {
+          "id": 1780605460071,
+          "type": "BLOCO",
+          "text": "Processo 4249 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:39.846Z"
+        },
+        {
+          "id": 1780605456360,
+          "type": "BLOCO",
+          "text": "Processo 4219 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:35.718Z"
+        },
+        {
+          "id": 1780605452186,
+          "type": "BLOCO",
+          "text": "Processo 4215 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:31.414Z"
+        },
+        {
+          "id": 1780605448476,
+          "type": "BLOCO",
+          "text": "Processo 4276 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:27.834Z"
+        },
+        {
+          "id": 1780605439251,
+          "type": "BLOCO",
+          "text": "Processo 4209 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:18.998Z"
+        },
+        {
+          "id": 1780605433642,
+          "type": "BLOCO",
+          "text": "Processo 4207 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:13.134Z"
+        },
+        {
+          "id": 1780605430320,
+          "type": "BLOCO",
+          "text": "Processo 4253 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:09.430Z"
+        },
+        {
+          "id": 1780605425721,
+          "type": "BLOCO",
+          "text": "Processo 4257 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:05.182Z"
+        },
+        {
+          "id": 1780605421983,
+          "type": "BLOCO",
+          "text": "Processo 4255 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:37:01.334Z"
+        },
+        {
+          "id": 1780605407597,
+          "type": "BLOCO",
+          "text": "Processo 4213 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:36:47.286Z"
+        },
+        {
+          "id": 1780605342625,
+          "type": "BLOCO",
+          "text": "Processo 4291 alterado.",
+          "meta": {},
+          "date": "2026-06-04T20:35:41.647Z"
+        },
+        {
+          "id": 1780605188987,
+          "type": "BLOCO",
+          "text": "Processo 4291 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:33:08.134Z"
+        },
+        {
+          "id": 1780605128028,
+          "type": "BLOCO",
+          "text": "Processo 4249 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:32:07.718Z"
+        },
+        {
+          "id": 1780605107134,
+          "type": "BLOCO",
+          "text": "Processo 4219 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:31:46.377Z"
+        },
+        {
+          "id": 1780605076505,
+          "type": "BLOCO",
+          "text": "Processo 4215 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:31:16.224Z"
+        },
+        {
+          "id": 1780605010182,
+          "type": "BLOCO",
+          "text": "Processo 4276 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:30:09.942Z"
+        },
+        {
+          "id": 1780604995526,
+          "type": "BLOCO",
+          "text": "Processo 4276 excluído do bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:29:55.199Z"
+        },
+        {
+          "id": 1780604987340,
+          "type": "BLOCO",
+          "text": "Processo 4209 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:29:46.630Z"
+        },
+        {
+          "id": 1780604972349,
+          "type": "BLOCO",
+          "text": "Processo 4207 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:29:32.319Z"
+        },
+        {
+          "id": 1780604951058,
+          "type": "BLOCO",
+          "text": "Processo 4253 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:29:10.294Z"
+        },
+        {
+          "id": 1780604931843,
+          "type": "BLOCO",
+          "text": "Processo 4257 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:28:51.271Z"
+        },
+        {
+          "id": 1780604863609,
+          "type": "BLOCO",
+          "text": "Processo 4255 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:27:42.902Z"
+        },
+        {
+          "id": 1780604830475,
+          "type": "BLOCO",
+          "text": "Processo 4276 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-04T20:27:10.280Z"
+        },
+        {
           "id": 1780604670964,
           "type": "BLOCO",
           "text": "Processo 4213 incluído no bloco.",
@@ -5335,13 +6907,438 @@
           "date": "2026-06-04T20:23:02.471Z"
         }
       ]
+    },
+    {
+      "id": 1780676023347,
+      "date": "2026-06-05",
+      "note": "",
+      "createdAt": "2026-06-05T16:13:42.403Z",
+      "closedAt": null,
+      "archived": false,
+      "entries": [
+        {
+          "id": 1780683772022,
+          "processCode": "MDR-2026-000051",
+          "dataEntrada": "2026-06-05",
+          "createdAt": "2026-06-05T18:22:51.242Z",
+          "updatedAt": "2026-06-05T18:26:50.327Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "679",
+          "pedido": "4329",
+          "destinatario": "HOSPITAL ESPERANCA RECIFE",
+          "uf": "PE",
+          "urgente": true,
+          "requisicao": "97675",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "EM SEPARAÇÃO",
+          "previousStatus": "AGUARDANDO REQUISIÇÃO",
+          "sharePointLane": "",
+          "modal": "---",
+          "obs": "MARIA PAIM DE MIRANDA",
+          "history": [
+            {
+              "id": 1780684010951,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-05T18:26:50.327Z"
+            },
+            {
+              "id": 1780684011314,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97675",
+              "meta": {},
+              "date": "2026-06-05T18:26:50.327Z"
+            },
+            {
+              "id": 1780683772009,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T18:22:51.242Z"
+            },
+            {
+              "id": 1780683772147,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T18:22:51.242Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780683771243,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-05T18:22:51.242Z",
+              "end": "2026-06-05T18:26:50.327Z",
+              "durationHours": 0.0664125
+            },
+            {
+              "id": 1780684010365,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-05T18:26:50.327Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T18:26:50.327Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780683732266,
+          "processCode": "MDR-2026-000050",
+          "dataEntrada": "2026-06-05",
+          "createdAt": "2026-06-05T18:22:11.644Z",
+          "updatedAt": "2026-06-05T18:26:46.667Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "678",
+          "pedido": "4322",
+          "destinatario": "HOSPITAL ESPERANCA RECIFE",
+          "uf": "PE",
+          "urgente": true,
+          "requisicao": "97674",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "EM SEPARAÇÃO",
+          "previousStatus": "AGUARDANDO REQUISIÇÃO",
+          "sharePointLane": "",
+          "modal": "---",
+          "obs": "MARIA PAIM DE MIRANDA",
+          "history": [
+            {
+              "id": 1780684007509,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-05T18:26:46.667Z"
+            },
+            {
+              "id": 1780684007129,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97674",
+              "meta": {},
+              "date": "2026-06-05T18:26:46.667Z"
+            },
+            {
+              "id": 1780683732464,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T18:22:11.646Z"
+            },
+            {
+              "id": 1780683731804,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T18:22:11.646Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780683731647,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-05T18:22:11.646Z",
+              "end": "2026-06-05T18:26:46.667Z",
+              "durationHours": 0.07639472222222222
+            },
+            {
+              "id": 1780684007106,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-05T18:26:46.667Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T18:26:46.667Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780682137723,
+          "processCode": "MDR-2026-000049",
+          "dataEntrada": "2026-06-05",
+          "createdAt": "2026-06-05T17:55:37.272Z",
+          "updatedAt": "2026-06-05T18:25:13.031Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "677",
+          "pedido": "4327",
+          "destinatario": "HOSPITAL ESPERANCA RECIFE",
+          "uf": "PE",
+          "urgente": true,
+          "requisicao": "97673",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "EM SEPARAÇÃO",
+          "previousStatus": "AGUARDANDO REQUISIÇÃO",
+          "sharePointLane": "",
+          "modal": "---",
+          "obs": "DEISE ELAINE FERREIRA",
+          "history": [
+            {
+              "id": 1780683913397,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-05T18:25:13.031Z"
+            },
+            {
+              "id": 1780683913822,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97673",
+              "meta": {},
+              "date": "2026-06-05T18:25:13.031Z"
+            },
+            {
+              "id": 1780682137977,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T17:55:37.272Z"
+            },
+            {
+              "id": 1780682138248,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T17:55:37.272Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780682137273,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-05T17:55:37.272Z",
+              "end": "2026-06-05T18:25:13.031Z",
+              "durationHours": 0.4932663888888889
+            },
+            {
+              "id": 1780683913569,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-05T18:25:13.031Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T18:25:13.031Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        },
+        {
+          "id": 1780682101164,
+          "processCode": "MDR-2026-000048",
+          "dataEntrada": "2026-06-05",
+          "createdAt": "2026-06-05T17:55:00.858Z",
+          "updatedAt": "2026-06-05T18:25:09.213Z",
+          "finishedAt": null,
+          "responsavel": "JOÃO VICTOR",
+          "operacao": "VENDA",
+          "carga": "676",
+          "pedido": "4324",
+          "destinatario": "HOSPITAL ESPERANCA RECIFE",
+          "uf": "PE",
+          "urgente": true,
+          "requisicao": "97672",
+          "nf": "",
+          "valorNf": 0,
+          "dataEmissao": "",
+          "status": "EM SEPARAÇÃO",
+          "previousStatus": "AGUARDANDO REQUISIÇÃO",
+          "sharePointLane": "",
+          "modal": "---",
+          "obs": "DEISE ELAINE FERREIRA",
+          "history": [
+            {
+              "id": 1780683909486,
+              "type": "REGRA",
+              "text": "Status atualizado automaticamente para EM SEPARAÇÃO ao preencher a requisição.",
+              "meta": {},
+              "date": "2026-06-05T18:25:09.214Z"
+            },
+            {
+              "id": 1780683909322,
+              "type": "DOCUMENTO",
+              "text": "Requisição vinculada: 97672",
+              "meta": {},
+              "date": "2026-06-05T18:25:09.213Z"
+            },
+            {
+              "id": 1780682100969,
+              "type": "REGRA",
+              "text": "Ao incluir, status NOVO foi convertido para AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T17:55:00.858Z"
+            },
+            {
+              "id": 1780682101024,
+              "type": "CRIACAO",
+              "text": "Processo criado. Status inicial efetivo: AGUARDANDO REQUISIÇÃO.",
+              "meta": {},
+              "date": "2026-06-05T17:55:00.858Z"
+            }
+          ],
+          "stageTimeline": [
+            {
+              "id": 1780682100859,
+              "status": "AGUARDANDO REQUISIÇÃO",
+              "start": "2026-06-05T17:55:00.858Z",
+              "end": "2026-06-05T18:25:09.214Z",
+              "durationHours": 0.5023211111111111
+            },
+            {
+              "id": 1780683909969,
+              "status": "EM SEPARAÇÃO",
+              "start": "2026-06-05T18:25:09.214Z",
+              "end": null,
+              "durationHours": 0
+            }
+          ],
+          "currentStatusStartedAt": "2026-06-05T18:25:09.214Z",
+          "origin": "MANUAL",
+          "conferenciaData": "",
+          "conferenciaAssinatura": "",
+          "expedicaoData": "",
+          "expedicaoAssinatura": "",
+          "delayReason": "",
+          "delayReasonRequestedAt": "",
+          "calledInfo": {
+            "ticketNumber": "",
+            "reason": "",
+            "progressCurrent": "",
+            "progressHistory": []
+          },
+          "calledUpdatedAt": "",
+          "calledLastReminderAt": "",
+          "cancelReason": ""
+        }
+      ],
+      "history": [
+        {
+          "id": 1780684011257,
+          "type": "BLOCO",
+          "text": "Processo 4329 alterado.",
+          "meta": {},
+          "date": "2026-06-05T18:26:50.327Z"
+        },
+        {
+          "id": 1780684007080,
+          "type": "BLOCO",
+          "text": "Processo 4322 alterado.",
+          "meta": {},
+          "date": "2026-06-05T18:26:46.667Z"
+        },
+        {
+          "id": 1780683913102,
+          "type": "BLOCO",
+          "text": "Processo 4327 alterado.",
+          "meta": {},
+          "date": "2026-06-05T18:25:13.031Z"
+        },
+        {
+          "id": 1780683910151,
+          "type": "BLOCO",
+          "text": "Processo 4324 alterado.",
+          "meta": {},
+          "date": "2026-06-05T18:25:09.214Z"
+        },
+        {
+          "id": 1780683771426,
+          "type": "BLOCO",
+          "text": "Processo 4329 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-05T18:22:51.243Z"
+        },
+        {
+          "id": 1780683732643,
+          "type": "BLOCO",
+          "text": "Processo 4322 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-05T18:22:11.646Z"
+        },
+        {
+          "id": 1780682138077,
+          "type": "BLOCO",
+          "text": "Processo 4327 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-05T17:55:37.272Z"
+        },
+        {
+          "id": 1780682101209,
+          "type": "BLOCO",
+          "text": "Processo 4324 incluído no bloco.",
+          "meta": {},
+          "date": "2026-06-05T17:55:00.858Z"
+        },
+        {
+          "id": 1780676022864,
+          "type": "BLOCO",
+          "text": "Bloco criado.",
+          "meta": {
+            "date": "2026-06-05"
+          },
+          "date": "2026-06-05T16:13:42.403Z"
+        }
+      ]
     }
   ],
   "analyses": [],
   "imports": [],
-  "activeBlockId": 1780604583100,
+  "activeBlockId": 1780676023347,
   "counters": {
     "analysisSeq": 0,
-    "processSeq": 34
+    "processSeq": 51
   }
 }
